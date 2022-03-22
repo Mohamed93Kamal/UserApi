@@ -1,0 +1,17 @@
+D:\API Project\Orders\Orders.Infrastructure\bin\Debug\net5.0\Orders.Infrastructure.deps.json
+D:\API Project\Orders\Orders.Infrastructure\bin\Debug\net5.0\Orders.Infrastructure.dll
+D:\API Project\Orders\Orders.Infrastructure\bin\Debug\net5.0\ref\Orders.Infrastructure.dll
+D:\API Project\Orders\Orders.Infrastructure\bin\Debug\net5.0\Orders.Infrastructure.pdb
+D:\API Project\Orders\Orders.Infrastructure\bin\Debug\net5.0\Orders.Core.dll
+D:\API Project\Orders\Orders.Infrastructure\bin\Debug\net5.0\Orders.Data.dll
+D:\API Project\Orders\Orders.Infrastructure\bin\Debug\net5.0\Orders.Data.pdb
+D:\API Project\Orders\Orders.Infrastructure\bin\Debug\net5.0\Orders.Core.pdb
+D:\API Project\Orders\Orders.Infrastructure\obj\Debug\net5.0\Orders.Infrastructure.csproj.AssemblyReference.cache
+D:\API Project\Orders\Orders.Infrastructure\obj\Debug\net5.0\Orders.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Project\Orders\Orders.Infrastructure\obj\Debug\net5.0\Orders.Infrastructure.AssemblyInfoInputs.cache
+D:\API Project\Orders\Orders.Infrastructure\obj\Debug\net5.0\Orders.Infrastructure.AssemblyInfo.cs
+D:\API Project\Orders\Orders.Infrastructure\obj\Debug\net5.0\Orders.Infrastructure.csproj.CoreCompileInputs.cache
+D:\API Project\Orders\Orders.Infrastructure\obj\Debug\net5.0\Orders.Infrastructure.csproj.CopyComplete
+D:\API Project\Orders\Orders.Infrastructure\obj\Debug\net5.0\Orders.Infrastructure.dll
+D:\API Project\Orders\Orders.Infrastructure\obj\Debug\net5.0\ref\Orders.Infrastructure.dll
+D:\API Project\Orders\Orders.Infrastructure\obj\Debug\net5.0\Orders.Infrastructure.pdb
